@@ -2,21 +2,19 @@
 
 >An example of using Vuex for state management.
 
+## Dependencies
+
+- Vuex
+- Vue Router
+
 ## Project setup
 ```
+//Install dependencies
 npm install
-```
 
-- Compiles and hot-reloads for development
-```
+//run server with hot-reloads
 npm run serve
 ```
-
-- Compiles and minifies for production
-```
-npm run build
-```
-
 
 ## Miscellaneous Notes
 
